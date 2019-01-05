@@ -421,7 +421,7 @@ msgstr ""
 
 #: superset/assets/src/explore/visTypes.js:229 superset/viz.py:1252
 msgid "Time Series - Multiple Line Charts"
-msgstr ""
+msgstr "时间序列 - 多线图"
 
 #: superset/viz.py:1281
 msgid "Time Series - Dual Axis Line Chart"
@@ -1187,12 +1187,12 @@ msgstr ""
 
 #: superset/assets/src/dashboard/components/CodeModal.jsx:35
 msgid "Active Dashboard Filters"
-msgstr "活跃的仪表板过滤器"
+msgstr "活跃的仪表盘过滤器"
 
 #: superset/assets/src/dashboard/components/Controls.jsx:120
 #, python-format
 msgid "Checkout this dashboard: %s"
-msgstr "查看这个仪表板：%s"
+msgstr "查看这个仪表盘：%s"
 
 #: superset/assets/src/dashboard/components/Controls.jsx:123
 #: superset/assets/src/explore/components/SaveModal.jsx:163
@@ -1205,7 +1205,7 @@ msgstr ""
 
 #: superset/assets/src/dashboard/components/Controls.jsx:132
 msgid "Force refresh the whole dashboard"
-msgstr "强制刷新整个仪表板"
+msgstr "强制刷新整个仪表盘"
 
 #: superset/assets/src/dashboard/components/Controls.jsx:140
 msgid "Set autorefresh"
@@ -1238,7 +1238,7 @@ msgstr ""
 #: superset/assets/src/dashboard/components/Controls.jsx:185
 #: superset/assets/src/dashboard/components/SliceAdder.jsx:196
 msgid "Add Charts"
-msgstr ""
+msgstr "添加图表"
 
 #: superset/assets/src/dashboard/components/Controls.jsx:186
 msgid "Add some charts to this dashboard"
@@ -1246,7 +1246,7 @@ msgstr ""
 
 #: superset/assets/src/dashboard/components/Controls.jsx:197
 msgid "Edit CSS"
-msgstr ""
+msgstr "编辑CSS"
 
 #: superset/assets/src/dashboard/components/Controls.jsx:198
 msgid "Change the style of the dashboard using CSS code"
@@ -1323,11 +1323,11 @@ msgstr "刷新间隔"
 
 #: superset/assets/src/dashboard/components/RefreshIntervalModal.jsx:46
 msgid "Choose the refresh frequency for this dashboard"
-msgstr "选择此仪表板的刷新频率"
+msgstr "选择此仪表盘的刷新频率"
 
 #: superset/assets/src/dashboard/components/SaveModal.jsx:66
 msgid "This dashboard was saved successfully."
-msgstr "该仪表板已成功保存。"
+msgstr "该仪表盘已成功保存。"
 
 #: superset/assets/src/dashboard/components/SaveModal.jsx:72
 msgid "Sorry, there was an error saving this dashboard: "
@@ -1339,16 +1339,16 @@ msgstr "异常"
 
 #: superset/assets/src/dashboard/components/SaveModal.jsx:96
 msgid "You must pick a name for the new dashboard"
-msgstr "您必须为新的仪表板选择一个名称"
+msgstr "您必须为新的仪表盘选择一个名称"
 
 #: superset/assets/src/dashboard/components/SaveModal.jsx:111
 msgid "Save Dashboard"
-msgstr "保存仪表板"
+msgstr "保存仪表盘"
 
 #: superset/assets/src/dashboard/components/SaveModal.jsx:119
 #, python-format
 msgid "Overwrite Dashboard [%s]"
-msgstr "覆盖仪表板 [%s]"
+msgstr "覆盖仪表盘 [%s]"
 
 #: superset/assets/src/dashboard/components/SaveModal.jsx:127
 msgid "Save as:"
@@ -1357,7 +1357,7 @@ msgstr "另存为："
 #: superset/assets/src/dashboard/components/SaveModal.jsx:131
 #: superset/assets/src/explore/components/SaveModal.jsx:209
 msgid "[dashboard name]"
-msgstr "[看板名称]"
+msgstr "[仪表盘名称]"
 
 #: superset/assets/src/dashboard/components/SliceAdder.jsx:73
 msgid "Sorry, there was an error fetching charts to this dashboard: "
@@ -1436,7 +1436,7 @@ msgstr "探索图表"
 
 #: superset/assets/src/dashboard/components/SliceHeader.jsx:169
 msgid "Remove chart from dashboard"
-msgstr "从仪表板中删除图表"
+msgstr "从仪表盘中删除图表"
 
 #: superset/assets/src/explore/controls.jsx:85
 msgid "A reference to the [Time] configuration, taking granularity into account"
@@ -3722,11 +3722,11 @@ msgstr ""
 
 #: superset/assets/src/explore/components/SaveModal.jsx:89
 msgid "Please select a dashboard"
-msgstr "请选择一个仪表板"
+msgstr "请选择一个仪表盘"
 
 #: superset/assets/src/explore/components/SaveModal.jsx:97
 msgid "Please enter a dashboard name"
-msgstr "请输入仪表板名称"
+msgstr "请输入仪表盘名称"
 
 #: superset/assets/src/explore/components/SaveModal.jsx:133
 msgid "Save A Chart"
@@ -3743,7 +3743,7 @@ msgstr ""
 
 #: superset/assets/src/explore/components/SaveModal.jsx:180
 msgid "Do not add to a dashboard"
-msgstr "不要添加到仪表板"
+msgstr "不要添加到仪表盘"
 
 #: superset/assets/src/explore/components/SaveModal.jsx:188
 msgid "Add chart to existing dashboard"
@@ -3751,11 +3751,11 @@ msgstr ""
 
 #: superset/assets/src/explore/components/SaveModal.jsx:204
 msgid "Add to new dashboard"
-msgstr "添加到新的仪表板"
+msgstr "添加到新的仪表盘"
 
 #: superset/assets/src/explore/components/SaveModal.jsx:230
 msgid "Save & go to dashboard"
-msgstr "保存并转到仪表板"
+msgstr "保存并转到仪表盘"
 
 #: superset/assets/src/explore/components/controls/AdhocFilterControl.jsx:241
 msgid "choose a column or metric"
@@ -3903,11 +3903,11 @@ msgstr "安全 & 访问"
 
 #: superset/assets/src/profile/components/CreatedContent.jsx:33
 msgid "No charts"
-msgstr ""
+msgstr "没有图表"
 
 #: superset/assets/src/profile/components/CreatedContent.jsx:49
 msgid "No dashboards"
-msgstr "没有看板"
+msgstr "没有仪表盘"
 
 #: superset/assets/src/profile/components/CreatedContent.jsx:58
 #: superset/assets/src/profile/components/Favorites.jsx:59
@@ -3915,13 +3915,13 @@ msgstr "没有看板"
 #: superset/assets/src/welcome/App.jsx:31 superset/views/core.py:459
 #: superset/views/core.py:628
 msgid "Dashboards"
-msgstr "看板"
+msgstr "仪表盘"
 
 #: superset/assets/src/profile/components/CreatedContent.jsx:61
 #: superset/assets/src/profile/components/Favorites.jsx:62
 #: superset/views/core.py:500 superset/views/core.py:573
 msgid "Charts"
-msgstr ""
+msgstr "图表"
 
 #: superset/assets/src/profile/components/Favorites.jsx:34
 msgid "No favorite charts yet, go click on stars!"
@@ -3929,7 +3929,7 @@ msgstr ""
 
 #: superset/assets/src/profile/components/Favorites.jsx:50
 msgid "No favorite dashboards yet, go click on stars!"
-msgstr "暂无收藏的看板，去点击星星吧！"
+msgstr "暂无收藏的仪表盘，去点击星星吧！"
 
 #: superset/assets/src/profile/components/Security.jsx:14
 msgid "Roles"
@@ -4186,7 +4186,7 @@ msgstr "在数据源列表中点击数据源将重定向到此端点"
 
 #: superset/connectors/druid/views.py:255 superset/connectors/sqla/views.py:224
 msgid "Associated Charts"
-msgstr ""
+msgstr "相关图表"
 
 #: superset/connectors/druid/views.py:256
 msgid "Data Source"
@@ -4625,6 +4625,18 @@ msgstr "允许 CREATE TABLE AS"
 msgid "Allow DML"
 msgstr "允许 DML"
 
+#: superset/views/core.py:
+msgid "Asynchronous Query Execution"
+msgstr "异步查询执行"
+
+#: superset/views/core.py:
+msgid "Allow Csv Upload"
+msgstr "允许Csv上传"
+
+#: superset/views/core.py:
+msgid "Backend"
+msgstr "后端"
+
 #: superset/views/core.py:274
 msgid "CTAS Schema"
 msgstr "CTAS 模式"
@@ -4697,19 +4709,19 @@ msgstr "安全"
 
 #: superset/views/core.py:421
 msgid "List Charts"
-msgstr ""
+msgstr "图表列表"
 
 #: superset/views/core.py:422
 msgid "Show Chart"
-msgstr ""
+msgstr "显示图表"
 
 #: superset/views/core.py:423
 msgid "Add Chart"
-msgstr ""
+msgstr "添加图表"
 
 #: superset/views/core.py:424
 msgid "Edit Chart"
-msgstr ""
+msgstr "编辑图表"
 
 #: superset/views/core.py:446
 msgid ""
@@ -4737,7 +4749,7 @@ msgstr "参数"
 
 #: superset/views/core.py:465 superset/views/core.py:512
 msgid "Chart"
-msgstr ""
+msgstr "图表"
 
 #: superset/views/core.py:532
 msgid "List Dashboards"
@@ -4766,26 +4778,26 @@ msgstr ""
 msgid ""
 "The css for individual dashboards can be altered here, or in the "
 "dashboard view where changes are immediately visible"
-msgstr "可以在这里或者在看板视图修改单个看板的CSS样式"
+msgstr "可以在这里或者在仪表盘视图修改单个仪表盘的CSS样式"
 
 #: superset/views/core.py:556
 msgid "To get a readable URL for your dashboard"
-msgstr "为看板生成一个可读的 URL"
+msgstr "为仪表盘生成一个可读的 URL"
 
 #: superset/views/core.py:557
 msgid ""
 "This JSON object is generated dynamically when clicking the save or "
 "overwrite button in the dashboard view. It is exposed here for reference "
 "and for power users who may want to alter specific parameters."
-msgstr "当在看板视图中单击“保存”或“覆盖”按钮时，这些参数会在视图中动态生成。高级用户可以在这里改变特定的参数。"
+msgstr "当在仪表盘视图中单击“保存”或“覆盖”按钮时，这些参数会在视图中动态生成。高级用户可以在这里改变特定的参数。"
 
 #: superset/views/core.py:562
 msgid "Owners is a list of users who can alter the dashboard."
-msgstr "“所有者”是一组可以修改看板的用户列表。"
+msgstr "“所有者”是一组可以修改仪表盘的用户列表。"
 
 #: superset/views/core.py:570 superset/views/core.py:640
 msgid "Dashboard"
-msgstr "看板"
+msgstr "仪表盘"
 
 #: superset/views/core.py:572
 msgid "Slug"
@@ -4916,7 +4928,7 @@ msgstr "查询搜索"
 
 #: superset/views/core.py:2767
 msgid "Upload a CSV"
-msgstr ""
+msgstr "上传CSV"
 
 #: superset/views/sql_lab.py:25
 msgid "Status"
@@ -4993,19 +5005,19 @@ msgstr "已保存查询"
 #~ msgstr "点击强制刷新"
 
 #~ msgid "Sorry, there was an error adding slices to this dashboard: %s"
-#~ msgstr "对不起，在此仪表板中添加切片时出错：%s"
+#~ msgstr "对不起，在此仪表盘中添加切片时出错：%s"
 
 #~ msgid "Edit this dashboard's properties"
-#~ msgstr "编辑这个仪表板的属性"
+#~ msgstr "编辑这个仪表盘的属性"
 
 #~ msgid "Add Slices"
 #~ msgstr "添加切片"
 
 #~ msgid "Add a new slice to the dashboard"
-#~ msgstr "向仪表板添加新的切片"
+#~ msgstr "向仪表盘添加新的切片"
 
 #~ msgid "Add Slices to Dashboard"
-#~ msgstr "将切片添加到仪表板"
+#~ msgstr "将切片添加到仪表盘"
 
 #~ msgid "Edit slice properties"
 #~ msgstr "编辑切片属性"
@@ -5023,7 +5035,7 @@ msgstr "已保存查询"
 #~ msgstr "[切片名称]"
 
 #~ msgid "Add slice to existing dashboard"
-#~ msgstr "将切片添加到现有仪表板"
+#~ msgstr "将切片添加到现有仪表盘"
 
 #~ msgid "Check out this slice: %s"
 #~ msgstr "查看切片：%s"
@@ -5194,7 +5206,7 @@ msgstr "已保存查询"
 #~ "when adjusting the widgets size and "
 #~ "positions by using drag & drop in"
 #~ " the dashboard view."
-#~ msgstr "这个 JSON 对象描述了部件在看板中的位置。它是动态生成的，可以通过拖放，在看板中调整整部件的大小和位置。"
+#~ msgstr "这个 JSON 对象描述了部件在仪表盘中的位置。它是动态生成的，可以通过拖放，在仪表盘中调整整部件的大小和位置。"
 
 #~ msgid "Slice %(id)s not found"
 #~ msgstr "切片 %(id)s 没有找到"
