@@ -95,6 +95,7 @@ setup(
         'croniter==0.3.25',
         'selenium==3.14.0',
         'retry==0.9.2',
+        'mysqlclient==1.3.14',
     ],
     extras_require={
         'cors': ['flask-cors>=2.0.0'],
