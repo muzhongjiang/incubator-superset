@@ -60,5 +60,4 @@ celerybeat.pid
 geckodriver.log
 ghostdriver.log
 testCSV.csv
-run.py
-superset/assets/package-lock.json
+
