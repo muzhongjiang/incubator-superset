@@ -55,13 +55,15 @@ SECRET_KEY = '\2\1thisismyscretkey\1\2\e\y\y\h'  # noqa
 
 # The SQLAlchemy connection string.
 #SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(DATA_DIR, 'superset.db')
-SQLALCHEMY_DATABASE_URI = 'mysql://superset:abc123@tencent32/superset'
+SQLALCHEMY_DATABASE_URI = 'mysql://superset:superset@tencent32/superset'
 # SQLALCHEMY_DATABASE_URI = 'postgresql://root:password@localhost/myapp'
 
 SQLALCHEMY_COMMIT_ON_TEARDOWN = True
 SQLALCHEMY_ECHO = True
-SQLALCHEMY_RECORD_QUERIES = True
+#SQLALCHEMY_RECORD_QUERIES = True
 SQLALCHEMY_POOL_SIZE = 5
+SQLALCHEMY_POOL_TIMEOUT = 10
+SQLALCHEMY_POOL_RECYCLE = 60
 # In order to hook up a custom password store for all SQLACHEMY connections
 # implement a function that takes a single argument of type 'sqla.engine.url',
 # returns a password and set SQLALCHEMY_CUSTOM_PASSWORD_STORE.

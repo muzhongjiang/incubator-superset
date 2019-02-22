@@ -4536,7 +4536,7 @@ msgstr ""
 #: superset/assets/src/welcome/Welcome.jsx:47
 #: superset/assets/src/welcome/Welcome.jsx:50
 msgid "Recently Viewed"
-msgstr ""
+msgstr "最近浏览过"
 
 #: superset/connectors/druid/models.py:180
 msgid "Adding new datasource [{}]"
